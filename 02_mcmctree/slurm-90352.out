@@ -1,0 +1,956 @@
+
+AAML in paml version 4.9h, March 2018
+ns = 137  	ls = 67
+Reading sequences, sequential format..
+Reading seq # 1: GNM13746       Reading seq # 2: GNM13538       Reading seq # 3: GNM13671       Reading seq # 4: GNM13876       Reading seq # 5: GNM13680       Reading seq # 6: GNM14837       Reading seq # 7: GNM14249       Reading seq # 8: GNM13928       Reading seq # 9: GNM13297       Reading seq #10: GNM14865       Reading seq #11: GNM13455       Reading seq #12: GNM14938       Reading seq #13: GNM14483       Reading seq #14: GNM14872       Reading seq #15: GNM13855       Reading seq #16: GNM14445       Reading seq #17: GNM14404       Reading seq #18: GNM14366       Reading seq #19: GNM14252       Reading seq #20: GNM13760       Reading seq #21: GNM13982       Reading seq #22: GNM13960       Reading seq #23: GNM14633       Reading seq #24: GNM14853       Reading seq #25: GNM14055       Reading seq #26: GNM14748       Reading seq #27: GNM14246       Reading seq #28: GNM14965       Reading seq #29: GNM13677       Reading seq #30: GNM14339       Reading seq #31: GNM14593       Reading seq #32: GNM13825       Reading seq #33: GNM14768       Reading seq #34: GNM14776       Reading seq #35: GNM14715       Reading seq #36: GNM14639       Reading seq #37: GNM13795       Reading seq #38: GNM14166       Reading seq #39: GNM14450       Reading seq #40: GNM13745       Reading seq #41: GNM14959       Reading seq #42: GNM13413       Reading seq #43: GNM14971       Reading seq #44: GNM14990       Reading seq #45: GNM15005       Reading seq #46: GNM15014       Reading seq #47: GNM15017       Reading seq #48: GNM15024       Reading seq #49: GNM15000       Reading seq #50: GNM15001       Reading seq #51: GNM11003       Reading seq #52: GNM11023       Reading seq #53: GNM11055       Reading seq #54: GNM11146       Reading seq #55: GNM11220       Reading seq #56: GNM11222       Reading seq #57: GNM11224       Reading seq #58: GNM11225       Reading seq #59: GNM11358       Reading seq #60: GNM11360       Reading seq #61: GNM11362       Reading seq #62: GNM11367       Reading seq #63: GNM11377       Reading seq #64: GNM11380       Reading seq #65: GNM11383       Reading seq #66: GNM11491       Reading seq #67: GNM11804       Reading seq #68: GNM11805       Reading seq #69: GNM12883       Reading seq #70: GNM12892       Reading seq #71: GNM12895       Reading seq #72: GNM13060       Reading seq #73: GNM13061       Reading seq #74: GNM13062       Reading seq #75: GNM13064       Reading seq #76: GNM11363       Reading seq #77: GNM11375       Reading seq #78: GNM11381       Reading seq #79: GNM11382       Reading seq #80: GNM11841       Reading seq #81: GNM11931       Reading seq #82: GNM12040       Reading seq #83: GNM12071       Reading seq #84: GNM12125       Reading seq #85: GNM12126       Reading seq #86: GNM12128       Reading seq #87: GNM12182       Reading seq #88: GNM12342       Reading seq #89: GNM12346       Reading seq #90: GNM12351       Reading seq #91: GNM12356       Reading seq #92: GNM12357       Reading seq #93: GNM12366       Reading seq #94: GNM12373       Reading seq #95: GNM12385       Reading seq #96: GNM12551       Reading seq #97: GNM12554       Reading seq #98: GNM12592       Reading seq #99: GNM12596       Reading seq #100: GNM12602       Reading seq #101: GNM12665       Reading seq #102: GNM12745       Reading seq #103: GNM12749       Reading seq #104: GNM12758       Reading seq #105: GNM12763       Reading seq #106: GNM12766       Reading seq #107: GNM12841       Reading seq #108: GNM12849       Reading seq #109: GNM12869       Reading seq #110: GNM12896       Reading seq #111: GNM12897       Reading seq #112: GNM12902       Reading seq #113: GNM12903       Reading seq #114: GNM12906       Reading seq #115: GNM12907       Reading seq #116: GNM12909       Reading seq #117: GNM12915       Reading seq #118: GNM10046       Reading seq #119: GNM12931       Reading seq #120: GNM12938       Reading seq #121: GNM12996       Reading seq #122: GNM13018       Reading seq #123: GNM13027       Reading seq #124: GNM13046       Reading seq #125: GNM13053       Reading seq #126: GNM13074       Reading seq #127: GNM10010       Reading seq #128: GNM10014       Reading seq #129: GNM13090       Reading seq #130: GNM13118       Reading seq #131: GNM13126       Reading seq #132: GNM13128       Reading seq #133: GNM13208       Reading seq #134: GNM13210       Reading seq #135: GNM12773       Reading seq #136: GNM12769       Reading seq #137: GNM12768       
+Sequences read..
+
+67 site patterns read, 67 sites
+Counting frequencies..
+
+    74528 bytes for distance
+    21440 bytes for conP
+     2144 bytes for fhK
+  5000000 bytes for space
+
+TREE #  1
+
+  5788800 bytes for conP, adjusted
+
+1 node(s) used for scaling (Yang 2000 J Mol Evol 51:423-432):
+ 162
+
+ntime & nrate & np:   271     0   272
+
+np =   272
+lnL0 = -10021.905001
+
+
+Round 1a: Paras (1) (e=5)
+Iterating by ming2
+Initial: fx= 10021.905001
+x=  0.50000
+
+  1 h-m-p  0.0004 0.7178  67.5692 +C    10018.865152  0 0.0014     7 | 0/1
+  2 h-m-p  1.6000 8.0000   0.0035 C     10018.859215  0 1.4657    11
+
+    0.602147         0:00
+
+Round 1b: Blengths (271, e=5)
+	lnL0 =     -10018.859215
+	Cycle  1:   -9055.118199
+	Cycle  2:   -8922.334052
+	Cycle  3:   -8884.327340
+	Cycle  4:   -8873.287502
+	Cycle  5:   -8870.017352
+
+ 0:02
+
+
+Round 2a: Paras (1) (e=2.5)
+Iterating by ming2
+Initial: fx=  8870.017352
+x=  0.60215
+
+  1 h-m-p  0.0003 0.6591  73.4308 +Y     8863.682545  0 0.0031    19 | 0/1
+  2 h-m-p  1.6000 8.0000   0.0126 C      8863.636971  0 1.6000    23
+
+    0.808258         0:02
+
+Round 2b: Blengths (271, e=2.5)
+	lnL0 =      -8863.636971
+	Cycle  1:   -8858.139885
+	Cycle  2:   -8855.308620
+	Cycle  3:   -8852.915546
+
+ 0:03
+
+
+Round 3a: Paras (1) (e=1.25)
+Iterating by ming2
+Initial: fx=  8852.915546
+x=  0.80826
+
+  1 h-m-p  0.0006 1.1063  43.5611 ++C    8847.421147  0 0.0089    32 | 0/1
+  2 h-m-p  1.6000 8.0000   0.0258 C      8847.337469  0 1.8998    36
+
+    1.144830         0:04
+
+Round 3b: Blengths (271, e=1.25)
+	lnL0 =      -8847.337469
+	Cycle  1:   -8841.682444
+	Cycle  2:   -8840.239097
+	Cycle  3:   -8839.980598
+
+ 0:05
+
+
+Round 4a: Paras (1) (e=0.625)
+Iterating by ming2
+Initial: fx=  8839.980598
+x=  1.14483
+
+  1 h-m-p  0.0010 1.9367  24.7095 ++C    8835.621780  0 0.0155    45 | 0/1
+  2 h-m-p  1.6000 8.0000   0.0157 C      8835.610237  0 1.5736    49
+
+    1.552323         0:05
+
+Round 4b: Blengths (271, e=0.625)
+	lnL0 =      -8835.610237
+	Cycle  1:   -8832.948368
+	Cycle  2:   -8832.097786
+	Cycle  3:   -8831.748727
+
+ 0:06
+
+
+Round 5a: Paras (1) (e=0.3125)
+Iterating by ming2
+Initial: fx=  8831.748727
+x=  1.55232
+
+  1 h-m-p  0.0025 4.9781   9.5312 ++Y    8830.660122  0 0.0298    58 | 0/1
+  2 h-m-p  1.6000 8.0000   0.0239 Y      8830.646266  0 1.2681    62
+
+    1.806464         0:07
+
+Round 5b: Blengths (271, e=0.3125)
+	lnL0 =      -8830.646266
+	Cycle  1:   -8830.195006
+	Cycle  2:   -8829.931555
+
+ 0:07
+
+
+Round 6a: Paras (1) (e=0.15625)
+Iterating by ming2
+Initial: fx=  8829.931555
+x=  1.80646
+
+  1 h-m-p  0.0040 8.0000   0.9063 +Y     8829.916298  0 0.0379    70
+
+    1.840780         0:08
+
+Round 6b: Blengths (271, e=0.15625)
+	lnL0 =      -8829.916298
+	Cycle  1:   -8829.723176
+	Cycle  2:   -8829.562331
+	Cycle  3:   -8829.412763
+
+ 0:08
+
+
+Round 7a: Paras (1) (e=0.0390625)
+Iterating by ming2
+Initial: fx=  8829.412763
+x=  1.84078
+
+  1 h-m-p  0.0015 2.9570   0.6158 ++Y    8829.404386  0 0.0431    79
+
+    1.814235         0:09
+
+Round 7b: Blengths (271, e=0.0390625)
+	lnL0 =      -8829.404386
+	Cycle  1:   -8829.252981
+	Cycle  2:   -8829.115765
+	Cycle  3:   -8829.007502
+	Cycle  4:   -8828.932121
+	Cycle  5:   -8828.884755
+	Cycle  6:   -8828.857204
+
+ 0:11
+
+
+Round 8a: Paras (1) (e=0.00976562)
+Iterating by ming2
+Initial: fx=  8828.857204
+x=  1.81424
+
+  1 h-m-p  0.0005 0.9634   1.8625 +++C   8828.771543  0 0.0438    89 | 0/1
+  2 h-m-p  1.6000 8.0000   0.0078 Y      8828.770997  0 0.8630    93
+
+    1.725938         0:11
+
+Round 8b: Blengths (271, e=0.00976562)
+	lnL0 =      -8828.770997
+	Cycle  1:   -8828.734417
+	Cycle  2:   -8828.712249
+	Cycle  3:   -8828.701034
+	Cycle  4:   -8828.695764
+
+ 0:12
+
+
+Round 9a: Paras (1) (e=0.001)
+Iterating by ming2
+Initial: fx=  8828.695764
+x=  1.72594
+
+  1 h-m-p  0.0014 2.7480   0.6208 ++Y    8828.687403  0 0.0421   102 | 0/1
+  2 h-m-p  1.6000 8.0000   0.0004 Y      8828.687401  0 0.9554   107
+
+    1.699396         0:13
+
+Round 9b: Blengths (271, e=0.001)
+	lnL0 =      -8828.687401
+	Cycle  1:   -8828.682512
+	Cycle  2:   -8828.679895
+	Cycle  3:   -8828.678684
+	Cycle  4:   -8828.678149
+
+ 0:14
+
+
+Round 10a: Paras (1) (e=0.00025)
+Iterating by ming2
+Initial: fx=  8828.678149
+x=  1.69940
+
+  1 h-m-p  0.0040 7.9612   0.2109 ++Y    8828.677221  0 0.0413   116 | 0/1
+  2 h-m-p  1.6000 8.0000   0.0000 Y      8828.677221  0 0.9850   121
+
+    1.690651         0:15
+
+Round 10b: Blengths (271, e=0.00025)
+	lnL0 =      -8828.677221
+	Cycle  1:   -8828.676727
+	Cycle  2:   -8828.676466
+	Cycle  3:   -8828.676345
+
+ 0:16
+
+
+Round 11a: Paras (1) (e=6.25e-05)
+Iterating by ming2
+Initial: fx=  8828.676345
+x=  1.69065
+
+  1 h-m-p  0.0040 8.0000   0.0583 ++Y    8828.676275  0 0.0410   130 | 0/1
+  2 h-m-p  1.6000 8.0000   0.0000 Y      8828.676275  0 0.9638   135
+
+    1.688261         0:16
+
+Round 11b: Blengths (271, e=6.25e-05)
+	lnL0 =      -8828.676275
+	Cycle  1:   -8828.676191
+	Cycle  2:   -8828.676147
+
+ 0:17
+
+
+Round 12a: Paras (1) (e=1.5625e-05)
+Iterating by ming2
+Initial: fx=  8828.676147
+x=  1.68826
+
+  1 h-m-p  0.0040 8.0000   0.0179 ++Y    8828.676140  0 0.0409   144 | 0/1
+  2 h-m-p  1.6000 8.0000   0.0000 N      8828.676140  0 0.2000   149
+
+    1.687531         0:18
+
+Round 12b: Blengths (271, e=1.5625e-05)
+	lnL0 =      -8828.676140
+	Cycle  1:   -8828.676114
+	Cycle  2:   -8828.676100
+
+ 0:18
+
+
+Round 13a: Paras (1) (e=3.90625e-06)
+Iterating by ming2
+Initial: fx=  8828.676100
+x=  1.68753
+
+  1 h-m-p  0.0040 8.0000   0.0090 ++Y    8828.676098  0 0.0408   158 | 0/1
+  2 h-m-p  1.6000 8.0000   0.0000 --------Y  8828.676098  0 0.0000   171
+
+    1.687164         0:19
+
+Round 13b: Blengths (271, e=3.90625e-06)
+	lnL0 =      -8828.676098
+	Cycle  1:   -8828.676089
+	Cycle  2:   -8828.676084
+	Cycle  3:   -8828.676081
+
+ 0:21
+
+
+Round 14a: Paras (1) (e=1e-06)
+Iterating by ming2
+Initial: fx=  8828.676081
+x=  1.68716
+
+  1 h-m-p  0.0040 8.0000   0.0056 ++Y    8828.676080  0 0.0408   180 | 0/1
+  2 h-m-p  1.6000 8.0000   0.0000 +N     8828.676080  0 4.0000   186
+
+    1.686935         0:22
+
+Round 14b: Blengths (271, e=1e-06)
+	lnL0 =      -8828.676080
+	Cycle  1:   -8828.676077
+	Cycle  2:   -8828.676075
+	Cycle  3:   -8828.676074
+	Cycle  4:   -8828.676072
+	Cycle  5:   -8828.676071
+	Cycle  6:   -8828.676070
+
+ 0:25
+
+
+Round 15a: Paras (1) (e=1e-06)
+Iterating by ming2
+Initial: fx=  8828.676070
+x=  1.68693
+
+  1 h-m-p  0.0040 8.0000   0.0026 ++Y    8828.676070  0 0.0408   195 | 0/1
+  2 h-m-p  1.6000 8.0000   0.0000 Y      8828.676070  0 1.6000   200
+
+    1.686829         0:26
+
+Round 15b: Blengths (271, e=1e-06)
+	lnL0 =      -8828.676070
+	Cycle  1:   -8828.676069
+
+ 0:26
+
+
+Round 16a: Paras (1) (e=1e-06)
+Iterating by ming2
+Initial: fx=  8828.676069
+x=  1.68683
+
+  1 h-m-p  0.0040 8.0000   0.0002 ++Y    8828.676069  0 0.0410   209 | 0/1
+  2 h-m-p  1.6000 8.0000   0.0000 C      8828.676069  0 0.4000   214
+
+    1.686821         0:27
+
+Round 16b: Blengths (271, e=1e-06)
+	lnL0 =      -8828.676069
+	Cycle  1:   -8828.676068
+
+ 0:27
+
+6 rounds of small improvement.
+
+Round 17a: Paras (1) (e=1e-06)
+Iterating by ming2
+Initial: fx=  8828.676068
+x=  1.68682
+
+  1 h-m-p  0.0040 8.0000   0.0001 +Y     8828.676068  0 0.0395   222 | 0/1
+  2 h-m-p  1.6000 8.0000   0.0000 C      8828.676068  0 1.6000   227
+
+    1.686816         0:28
+
+Round 17b: Blengths (271, e=1e-06)
+	lnL0 =      -8828.676068
+	Cycle  1:   -8828.676068
+
+ 0:28
+
+7 rounds of small improvement.
+
+Round 18a: Paras (1) (e=1e-06)
+Iterating by ming2
+Initial: fx=  8828.676068
+x=  1.68682
+
+  1 h-m-p  0.0040 8.0000   0.0001 +Y     8828.676068  0 0.0362   235 | 0/1
+  2 h-m-p  1.6000 8.0000   0.0000 Y      8828.676068  0 1.6000   240
+
+    1.686813         0:29
+
+Round 18b: Blengths (271, e=1e-06)
+	lnL0 =      -8828.676068
+	Cycle  1:   -8828.676067
+
+ 0:29
+
+8 rounds of small improvement.
+
+Round 19a: Paras (1) (e=1e-06)
+Iterating by ming2
+Initial: fx=  8828.676067
+x=  1.68681
+
+  1 h-m-p  0.0040 8.0000   0.0000 ++Y    8828.676067  0 0.0474   249 | 0/1
+  2 h-m-p  1.6000 8.0000   0.0000 -------------N  8828.676067  0 0.0000   267
+
+    1.686811         0:30
+
+Round 19b: Blengths (271, e=1e-06)
+	lnL0 =      -8828.676067
+	Cycle  1:   -8828.676067
+
+ 0:31
+
+9 rounds of small improvement.
+
+Round 20a: Paras (1) (e=1e-06)
+Iterating by ming2
+Initial: fx=  8828.676067
+x=  1.68681
+
+  1 h-m-p  0.0040 8.0000   0.0000 +Y     8828.676067  0 0.0337   275
+
+    1.686809         0:31
+
+Round 20b: Blengths (271, e=1e-06)
+	lnL0 =      -8828.676067
+	Cycle  1:   -8828.676066
+
+ 0:32
+
+10 rounds of small improvement.
+
+Round 21a: Paras (1) (e=1e-06)
+Iterating by ming2
+Initial: fx=  8828.676066
+x=  1.68681
+
+  1 h-m-p  0.0040 8.0000   0.0000 Y      8828.676066  0 0.0040   282
+
+    1.686809         0:32
+
+Round 21b: Blengths (271, e=1e-06)
+	lnL0 =      -8828.676066
+	Cycle  1:   -8828.676066
+
+ 0:33
+
+11 rounds of small improvement.
+
+Round 22a: Paras (1) (e=1e-06)
+Iterating by ming2
+Initial: fx=  8828.676066
+x=  1.68681
+
+  1 h-m-p  0.0040 8.0000   0.0000 N      8828.676066  0 0.0040   289
+
+    1.686809         0:33
+
+Round 22b: Blengths (271, e=1e-06)
+	lnL0 =      -8828.676066
+	Cycle  1:   -8828.676065
+
+ 0:33
+
+12 rounds of small improvement.
+
+Round 23a: Paras (1) (e=1e-06)
+Iterating by ming2
+Initial: fx=  8828.676065
+x=  1.68681
+
+  1 h-m-p  0.0040 8.0000   0.0000 Y      8828.676065  0 0.0040   296
+
+    1.686809         0:34
+
+Round 23b: Blengths (271, e=1e-06)
+	lnL0 =      -8828.676065
+	Cycle  1:   -8828.676065
+
+ 0:34
+
+13 rounds of small improvement.
+
+Round 24a: Paras (1) (e=1e-06)
+Iterating by ming2
+Initial: fx=  8828.676065
+x=  1.68681
+
+  1 h-m-p  0.0040 8.0000   0.0000 Y      8828.676065  0 0.0010   303
+
+    1.686809         0:35
+
+Round 24b: Blengths (271, e=1e-06)
+	lnL0 =      -8828.676065
+	Cycle  1:   -8828.676065
+
+ 0:35
+
+14 rounds of small improvement.
+
+Round 25a: Paras (1) (e=1e-06)
+Iterating by ming2
+Initial: fx=  8828.676065
+x=  1.68681
+
+  1 h-m-p  0.0040 8.0000   0.0000 Y      8828.676065  0 0.0040   310
+
+    1.686809         0:36
+
+Round 25b: Blengths (271, e=1e-06)
+	lnL0 =      -8828.676065
+	Cycle  1:   -8828.676065
+
+ 0:36
+
+15 rounds of small improvement.
+
+Round 26a: Paras (1) (e=1e-06)
+Iterating by ming2
+Initial: fx=  8828.676065
+x=  1.68681
+
+  1 h-m-p  0.0040 8.0000   0.0000 +Y     8828.676065  0 0.0160   318
+
+    1.686810         0:37
+
+Round 26b: Blengths (271, e=1e-06)
+	lnL0 =      -8828.676065
+	Cycle  1:   -8828.676065
+
+ 0:37
+
+16 rounds of small improvement.
+
+Round 27a: Paras (1) (e=1e-06)
+Iterating by ming2
+Initial: fx=  8828.676065
+x=  1.68681
+
+  1 h-m-p  0.0040 8.0000   0.0000 ++Y    8828.676065  0 0.0640   327
+
+    1.686811         0:38
+
+Round 27b: Blengths (271, e=1e-06)
+	lnL0 =      -8828.676065
+	Cycle  1:   -8828.676064
+
+ 0:38
+
+17 rounds of small improvement.
+
+Round 28a: Paras (1) (e=1e-06)
+Iterating by ming2
+Initial: fx=  8828.676064
+x=  1.68681
+
+  1 h-m-p  0.0040 8.0000   0.0000 Y      8828.676064  0 0.0040   334
+
+    1.686811         0:39
+
+Round 28b: Blengths (271, e=1e-06)
+	lnL0 =      -8828.676064
+	Cycle  1:   -8828.676064
+
+ 0:39
+
+18 rounds of small improvement.
+
+Round 29a: Paras (1) (e=1e-06)
+Iterating by ming2
+Initial: fx=  8828.676064
+x=  1.68681
+
+  1 h-m-p  0.0040 8.0000   0.0000 C      8828.676064  0 0.0059   341
+
+    1.686811         0:40
+
+Round 29b: Blengths (271, e=1e-06)
+	lnL0 =      -8828.676064
+	Cycle  1:   -8828.676064
+
+ 0:40
+
+19 rounds of small improvement.
+
+Round 30a: Paras (1) (e=1e-06)
+Iterating by ming2
+Initial: fx=  8828.676064
+x=  1.68681
+
+  1 h-m-p  0.0040 8.0000   0.0000 Y      8828.676064  0 0.0040   348
+
+    1.686811         0:41
+
+Round 30b: Blengths (271, e=1e-06)
+	lnL0 =      -8828.676064
+	Cycle  1:   -8828.676064
+
+ 0:41
+
+20 rounds of small improvement.
+
+Round 31a: Paras (1) (e=1e-06)
+Iterating by ming2
+Initial: fx=  8828.676064
+x=  1.68681
+
+  1 h-m-p  0.0040 8.0000   0.0000 N      8828.676064  0 0.0010   355
+
+    1.686811         0:42
+
+Round 31b: Blengths (271, e=1e-06)
+	lnL0 =      -8828.676064
+	Cycle  1:   -8828.676064
+
+ 0:42
+
+21 rounds of small improvement.
+
+Round 32a: Paras (1) (e=1e-06)
+Iterating by ming2
+Initial: fx=  8828.676064
+x=  1.68681
+
+  1 h-m-p  0.0040 8.0000   0.0001 +Y     8828.676064  0 0.0160   363
+
+    1.686812         0:43
+
+Round 32b: Blengths (271, e=1e-06)
+	lnL0 =      -8828.676064
+	Cycle  1:   -8828.676064
+
+ 0:43
+
+22 rounds of small improvement.
+
+Round 33a: Paras (1) (e=1e-06)
+Iterating by ming2
+Initial: fx=  8828.676064
+x=  1.68681
+
+  1 h-m-p  0.0040 8.0000   0.0000 ++Y    8828.676064  0 0.0426   372
+
+    1.686813         0:44
+
+Round 33b: Blengths (271, e=1e-06)
+	lnL0 =      -8828.676064
+	Cycle  1:   -8828.676064
+
+ 0:45
+
+23 rounds of small improvement.
+
+Round 34a: Paras (1) (e=1e-06)
+Iterating by ming2
+Initial: fx=  8828.676064
+x=  1.68681
+
+  1 h-m-p  0.0040 8.0000   0.0000 N      8828.676064  0 0.0040   379
+
+    1.686813         0:45
+
+Round 34b: Blengths (271, e=1e-06)
+	lnL0 =      -8828.676064
+	Cycle  1:   -8828.676064
+
+ 0:46
+
+24 rounds of small improvement.
+
+Round 35a: Paras (1) (e=1e-06)
+Iterating by ming2
+Initial: fx=  8828.676064
+x=  1.68681
+
+  1 h-m-p  0.0040 8.0000   0.0000 +Y     8828.676064  0 0.0160   387
+
+    1.686813         0:46
+
+Round 35b: Blengths (271, e=1e-06)
+	lnL0 =      -8828.676064
+	Cycle  1:   -8828.676064
+
+ 0:47
+
+25 rounds of small improvement.
+
+Round 36a: Paras (1) (e=1e-06)
+Iterating by ming2
+Initial: fx=  8828.676064
+x=  1.68681
+
+  1 h-m-p  0.0040 8.0000   0.0000 C      8828.676064  0 0.0040   394
+
+    1.686813         0:47
+
+Round 36b: Blengths (271, e=1e-06)
+	lnL0 =      -8828.676064
+	Cycle  1:   -8828.676063
+
+ 0:48
+
+26 rounds of small improvement.
+
+Round 37a: Paras (1) (e=1e-06)
+Iterating by ming2
+Initial: fx=  8828.676063
+x=  1.68681
+
+  1 h-m-p  0.0040 8.0000   0.0000 +Y     8828.676063  0 0.0258   402
+
+    1.686814         0:48
+
+Round 37b: Blengths (271, e=1e-06)
+	lnL0 =      -8828.676063
+	Cycle  1:   -8828.676063
+
+ 0:49
+
+27 rounds of small improvement.
+
+Round 38a: Paras (1) (e=1e-06)
+Iterating by ming2
+Initial: fx=  8828.676063
+x=  1.68681
+
+  1 h-m-p  0.0040 8.0000   0.0000 +C     8828.676063  0 0.0223   410
+
+    1.686815         0:49
+
+Round 38b: Blengths (271, e=1e-06)
+	lnL0 =      -8828.676063
+	Cycle  1:   -8828.676063
+
+ 0:50
+
+28 rounds of small improvement.
+
+Round 39a: Paras (1) (e=1e-06)
+Iterating by ming2
+Initial: fx=  8828.676063
+x=  1.68681
+
+  1 h-m-p  0.0040 8.0000   0.0000 +Y     8828.676063  0 0.0160   418
+
+    1.686815         0:50
+
+Round 39b: Blengths (271, e=1e-06)
+	lnL0 =      -8828.676063
+	Cycle  1:   -8828.676063
+
+ 0:51
+
+29 rounds of small improvement.
+
+Round 40a: Paras (1) (e=1e-06)
+Iterating by ming2
+Initial: fx=  8828.676063
+x=  1.68682
+
+  1 h-m-p  0.0040 8.0000   0.0000 C      8828.676063  0 0.0010   425
+
+    1.686815         0:51
+
+Round 40b: Blengths (271, e=1e-06)
+	lnL0 =      -8828.676063
+	Cycle  1:   -8828.676063
+
+ 0:52
+
+30 rounds of small improvement.
+
+Round 41a: Paras (1) (e=1e-06)
+Iterating by ming2
+Initial: fx=  8828.676063
+x=  1.68682
+
+  1 h-m-p  0.0040 8.0000   0.0000 --C    8828.676063  0 0.0001   434
+
+    1.686815         0:52
+
+Round 41b: Blengths (271, e=1e-06)
+	lnL0 =      -8828.676063
+	Cycle  1:   -8828.676063
+
+ 0:53
+
+31 rounds of small improvement.
+
+Round 42a: Paras (1) (e=1e-06)
+Iterating by ming2
+Initial: fx=  8828.676063
+x=  1.68682
+
+  1 h-m-p  0.0040 8.0000   0.0000 Y      8828.676063  0 0.0143   441
+
+    1.686815         0:53
+
+Round 42b: Blengths (271, e=1e-06)
+	lnL0 =      -8828.676063
+	Cycle  1:   -8828.676063
+
+ 0:54
+
+32 rounds of small improvement.
+
+Round 43a: Paras (1) (e=1e-06)
+Iterating by ming2
+Initial: fx=  8828.676063
+x=  1.68682
+
+  1 h-m-p  0.0040 8.0000   0.0000 Y      8828.676063  0 0.0010   448
+
+    1.686815         0:55
+
+Round 43b: Blengths (271, e=1e-06)
+	lnL0 =      -8828.676063
+	Cycle  1:   -8828.676063
+
+ 0:55
+
+33 rounds of small improvement.
+
+Round 44a: Paras (1) (e=1e-06)
+Iterating by ming2
+Initial: fx=  8828.676063
+x=  1.68682
+
+  1 h-m-p  0.0040 8.0000   0.0000 ++Y    8828.676063  0 0.0640   457
+
+    1.686817         0:56
+
+Round 44b: Blengths (271, e=1e-06)
+	lnL0 =      -8828.676063
+	Cycle  1:   -8828.676063
+
+ 0:57
+
+34 rounds of small improvement.
+
+Round 45a: Paras (1) (e=1e-06)
+Iterating by ming2
+Initial: fx=  8828.676063
+x=  1.68682
+
+  1 h-m-p  0.0040 8.0000   0.0000 N      8828.676063  0 0.0020   464
+
+    1.686817         0:57
+
+Round 45b: Blengths (271, e=1e-06)
+	lnL0 =      -8828.676063
+	Cycle  1:   -8828.676063
+
+ 0:58
+
+35 rounds of small improvement.
+
+Round 46a: Paras (1) (e=1e-06)
+Iterating by ming2
+Initial: fx=  8828.676063
+x=  1.68682
+
+  1 h-m-p  0.0040 8.0000   0.0000 N      8828.676063  0 0.0040   471
+
+    1.686817         0:58
+
+Round 46b: Blengths (271, e=1e-06)
+	lnL0 =      -8828.676063
+	Cycle  1:   -8828.676063
+
+ 0:59
+
+36 rounds of small improvement.
+
+Round 47a: Paras (1) (e=1e-06)
+Iterating by ming2
+Initial: fx=  8828.676063
+x=  1.68682
+
+  1 h-m-p  0.0040 8.0000   0.0000 C      8828.676063  0 0.0040   478
+
+    1.686817         0:59
+
+Round 47b: Blengths (271, e=1e-06)
+	lnL0 =      -8828.676063
+	Cycle  1:   -8828.676063
+
+ 1:00
+
+37 rounds of small improvement.
+
+Round 48a: Paras (1) (e=1e-06)
+Iterating by ming2
+Initial: fx=  8828.676063
+x=  1.68682
+
+  1 h-m-p  0.0040 8.0000   0.0000 Y      8828.676063  0 0.0040   485
+
+    1.686817         1:00
+
+Round 48b: Blengths (271, e=1e-06)
+	lnL0 =      -8828.676063
+	Cycle  1:   -8828.676063
+
+ 1:01
+
+38 rounds of small improvement.
+
+Round 49a: Paras (1) (e=1e-06)
+Iterating by ming2
+Initial: fx=  8828.676063
+x=  1.68682
+
+  1 h-m-p  0.0040 8.0000   0.0000 Y      8828.676063  0 0.0040   492
+
+    1.686817         1:01
+
+Round 49b: Blengths (271, e=1e-06)
+	lnL0 =      -8828.676063
+	Cycle  1:   -8828.676063
+
+ 1:02
+
+39 rounds of small improvement.
+
+Round 50a: Paras (1) (e=1e-06)
+Iterating by ming2
+Initial: fx=  8828.676063
+x=  1.68682
+
+  1 h-m-p  0.0040 8.0000   0.0000 Y      8828.676063  0 0.0040   499
+
+    1.686817         1:03
+
+Round 50b: Blengths (271, e=1e-06)
+	lnL0 =      -8828.676063
+	Cycle  1:   -8828.676063
+
+ 1:03
+
+40 rounds of small improvement.
+
+Round 51a: Paras (1) (e=1e-06)
+Iterating by ming2
+Initial: fx=  8828.676063
+x=  1.68682
+
+  1 h-m-p  0.0040 8.0000   0.0000 ---Y   8828.676063  0 0.0000   509
+
+    1.686817         1:04
+
+Round 51b: Blengths (271, e=1e-06)
+	lnL0 =      -8828.676063
+	Cycle  1:   -8828.676063
+
+ 1:05
+
+41 rounds of small improvement.
+
+Round 52a: Paras (1) (e=1e-06)
+Iterating by ming2
+Initial: fx=  8828.676063
+x=  1.68682
+
+  1 h-m-p  0.0040 8.0000   0.0000 +Y     8828.676063  0 0.0160   517
+
+    1.686817         1:05
+
+Round 52b: Blengths (271, e=1e-06)
+	lnL0 =      -8828.676063
+	Cycle  1:   -8828.676063
+
+ 1:06
+
+lnL  = -8828.676063
+Out..
+lnL  = -8828.676063
+520 lfun, 0 eigenQcodon, 844312 P(t)
+Calculating SE's
+
+Warning: Hessian matrix may be unreliable for zero branch lengths
+
+xmax = 0.0000e+00 close to zero at 266!	

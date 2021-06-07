@@ -1,0 +1,268 @@
+slurmstepd: error: task/cgroup: unable to add task[pid=101121] to memory cg '(null)'
+
+AAML in paml version 4.9h, March 2018
+ns = 150  	ls = 81
+Reading sequences, sequential format..
+Reading seq # 1: GNM13746       Reading seq # 2: GNM13538       Reading seq # 3: GNM13876       Reading seq # 4: GNM13680       Reading seq # 5: GNM14837       Reading seq # 6: GNM13928       Reading seq # 7: GNM13297       Reading seq # 8: GNM14865       Reading seq # 9: GNM13455       Reading seq #10: GNM14938       Reading seq #11: GNM14483       Reading seq #12: GNM14872       Reading seq #13: GNM13855       Reading seq #14: GNM14445       Reading seq #15: GNM14366       Reading seq #16: GNM14252       Reading seq #17: GNM13760       Reading seq #18: GNM13982       Reading seq #19: GNM13960       Reading seq #20: GNM14633       Reading seq #21: GNM14853       Reading seq #22: GNM14138       Reading seq #23: GNM14055       Reading seq #24: GNM14748       Reading seq #25: GNM14246       Reading seq #26: GNM14640       Reading seq #27: GNM14965       Reading seq #28: GNM13677       Reading seq #29: GNM14339       Reading seq #30: GNM14593       Reading seq #31: GNM13825       Reading seq #32: GNM14768       Reading seq #33: GNM14776       Reading seq #34: GNM14715       Reading seq #35: GNM14639       Reading seq #36: GNM13795       Reading seq #37: GNM14166       Reading seq #38: GNM13993       Reading seq #39: GNM14450       Reading seq #40: GNM13515       Reading seq #41: GNM13745       Reading seq #42: GNM14030       Reading seq #43: GNM14959       Reading seq #44: GNM13413       Reading seq #45: GNM14990       Reading seq #46: GNM15005       Reading seq #47: GNM14992       Reading seq #48: GNM14994       Reading seq #49: GNM15013       Reading seq #50: GNM15014       Reading seq #51: GNM14976       Reading seq #52: GNM14995       Reading seq #53: GNM14999       Reading seq #54: GNM15018       Reading seq #55: GNM15024       Reading seq #56: GNM14980       Reading seq #57: GNM15000       Reading seq #58: GNM15026       Reading seq #59: GNM15019       Reading seq #60: GNM15003       Reading seq #61: GNM11003       Reading seq #62: GNM11023       Reading seq #63: GNM11055       Reading seq #64: GNM11146       Reading seq #65: GNM11219       Reading seq #66: GNM11220       Reading seq #67: GNM11222       Reading seq #68: GNM11223       Reading seq #69: GNM11224       Reading seq #70: GNM11358       Reading seq #71: GNM11360       Reading seq #72: GNM11362       Reading seq #73: GNM11367       Reading seq #74: GNM11377       Reading seq #75: GNM11380       Reading seq #76: GNM11383       Reading seq #77: GNM11491       Reading seq #78: GNM11804       Reading seq #79: GNM11805       Reading seq #80: GNM12886       Reading seq #81: GNM12892       Reading seq #82: GNM12895       Reading seq #83: GNM13060       Reading seq #84: GNM13061       Reading seq #85: GNM13062       Reading seq #86: GNM13064       Reading seq #87: GNM13066       Reading seq #88: GNM11034       Reading seq #89: GNM11363       Reading seq #90: GNM11375       Reading seq #91: GNM11381       Reading seq #92: GNM11382       Reading seq #93: GNM11799       Reading seq #94: GNM11841       Reading seq #95: GNM11931       Reading seq #96: GNM12040       Reading seq #97: GNM12071       Reading seq #98: GNM12125       Reading seq #99: GNM12126       Reading seq #100: GNM12128       Reading seq #101: GNM12182       Reading seq #102: GNM12342       Reading seq #103: GNM12346       Reading seq #104: GNM12351       Reading seq #105: GNM12356       Reading seq #106: GNM12357       Reading seq #107: GNM12366       Reading seq #108: GNM12373       Reading seq #109: GNM12385       Reading seq #110: GNM12551       Reading seq #111: GNM12554       Reading seq #112: GNM12592       Reading seq #113: GNM12596       Reading seq #114: GNM12602       Reading seq #115: GNM12665       Reading seq #116: GNM12745       Reading seq #117: GNM12749       Reading seq #118: GNM12758       Reading seq #119: GNM12763       Reading seq #120: GNM12766       Reading seq #121: GNM12841       Reading seq #122: GNM12849       Reading seq #123: GNM12869       Reading seq #124: GNM12896       Reading seq #125: GNM12897       Reading seq #126: GNM12902       Reading seq #127: GNM12903       Reading seq #128: GNM12906       Reading seq #129: GNM12907       Reading seq #130: GNM12909       Reading seq #131: GNM12915       Reading seq #132: GNM10046       Reading seq #133: GNM12918       Reading seq #134: GNM12931       Reading seq #135: GNM12938       Reading seq #136: GNM12996       Reading seq #137: GNM13018       Reading seq #138: GNM13027       Reading seq #139: GNM13046       Reading seq #140: GNM13053       Reading seq #141: GNM13074       Reading seq #142: GNM10010       Reading seq #143: GNM10014       Reading seq #144: GNM13090       Reading seq #145: GNM13118       Reading seq #146: GNM13126       Reading seq #147: GNM13128       Reading seq #148: GNM13208       Reading seq #149: GNM13210       Reading seq #150: GNM12773       
+Sequences read..
+
+81 site patterns read, 81 sites
+Counting frequencies..
+
+    89400 bytes for distance
+    25920 bytes for conP
+     2592 bytes for fhK
+  5000000 bytes for space
+
+TREE #  1
+
+  7672320 bytes for conP, adjusted
+
+1 node(s) used for scaling (Yang 2000 J Mol Evol 51:423-432):
+ 178
+
+ntime & nrate & np:   297     0   298
+
+np =   298
+lnL0 = -9934.524220
+
+
+Round 1a: Paras (1) (e=5)
+Iterating by ming2
+Initial: fx=  9934.524220
+x=  0.50000
+
+  1 h-m-p  0.0001 0.1915 253.2703 ++Y    9887.753629  0 0.0037     8 | 0/1
+  2 h-m-p  1.6000 8.0000   0.0308 +C     9886.845741  0 6.1422    13
+
+    1.246273         0:00
+
+Round 1b: Blengths (297, e=5)
+	lnL0 =      -9886.845741
+	Cycle  1:   -8951.374528
+	Cycle  2:   -8830.499150
+	Cycle  3:   -8779.939199
+	Cycle  4:   -8758.881920
+	Cycle  5:   -8748.295928
+	Cycle  6:   -8743.492700
+
+ 0:03
+
+
+Round 2a: Paras (1) (e=2.5)
+Iterating by ming2
+Initial: fx=  8743.492700
+x=  1.24627
+
+  1 h-m-p  0.0040 8.0000   3.6745 +C     8743.365990  0 0.0217    21 | 0/1
+  2 h-m-p  1.6000 8.0000   0.0060 Y      8743.364969  0 1.1339    25
+
+    1.319161         0:03
+
+Round 2b: Blengths (297, e=2.5)
+	lnL0 =      -8743.364969
+	Cycle  1:   -8741.328965
+
+ 0:04
+
+
+Round 3a: Paras (1) (e=1.25)
+Iterating by ming2
+Initial: fx=  8741.328965
+x=  1.31916
+
+  1 h-m-p  0.0040 8.0000   1.4086 +C     8741.305048  0 0.0255    33 | 0/1
+  2 h-m-p  1.6000 8.0000   0.0011 Y      8741.305020  0 1.0674    37
+
+    1.353930         0:04
+
+Round 3b: Blengths (297, e=1.25)
+	lnL0 =      -8741.305020
+	Cycle  1:   -8740.288190
+
+ 0:05
+
+
+Round 4a: Paras (1) (e=0.625)
+Iterating by ming2
+Initial: fx=  8740.288190
+x=  1.35393
+
+  1 h-m-p  0.0040 8.0000   0.8764 +Y     8740.277279  0 0.0294    45
+
+    1.379695         0:05
+
+Round 4b: Blengths (297, e=0.625)
+	lnL0 =      -8740.277279
+	Cycle  1:   -8739.550954
+	Cycle  2:   -8738.914141
+	Cycle  3:   -8738.296603
+
+ 0:06
+
+
+Round 5a: Paras (1) (e=0.3125)
+Iterating by ming2
+Initial: fx=  8738.296603
+x=  1.37970
+
+  1 h-m-p  0.0040 8.0000   1.0554 +Y     8738.277668  0 0.0349    53 | 0/1
+  2 h-m-p  1.6000 8.0000   0.0004 Y      8738.277665  0 1.0473    57
+
+    1.416168         0:07
+
+Round 5b: Blengths (297, e=0.3125)
+	lnL0 =      -8738.277665
+	Cycle  1:   -8737.638723
+	Cycle  2:   -8736.961308
+	Cycle  3:   -8736.290662
+	Cycle  4:   -8735.786781
+	Cycle  5:   -8735.530476
+
+ 0:09
+
+
+Round 6a: Paras (1) (e=0.15625)
+Iterating by ming2
+Initial: fx=  8735.530476
+x=  1.41617
+
+  1 h-m-p  0.0003 0.6376   2.1897 +++C   8735.461551  0 0.0271    67 | 0/1
+  2 h-m-p  1.6000 8.0000   0.0028 Y      8735.461419  0 0.9402    71
+
+    1.354275         0:09
+
+Round 6b: Blengths (297, e=0.15625)
+	lnL0 =      -8735.461419
+	Cycle  1:   -8735.343834
+
+ 0:10
+
+
+Round 7a: Paras (1) (e=0.001)
+Iterating by ming2
+Initial: fx=  8735.343834
+x=  1.35428
+
+  1 h-m-p  0.0023 4.5475   0.2934 ++Y    8735.342720  0 0.0257    80 | 0/1
+  2 h-m-p  1.6000 8.0000   0.0000 Y      8735.342720  0 0.9923    85
+
+    1.346702         0:10
+
+Round 7b: Blengths (297, e=0.001)
+	lnL0 =      -8735.342720
+	Cycle  1:   -8735.304212
+	Cycle  2:   -8735.294190
+	Cycle  3:   -8735.291679
+	Cycle  4:   -8735.291009
+
+ 0:12
+
+
+Round 8a: Paras (1) (e=0.00025)
+Iterating by ming2
+Initial: fx=  8735.291009
+x=  1.34670
+
+  1 h-m-p  0.0022 4.4953   0.2951 ++Y    8735.289926  0 0.0247    94 | 0/1
+  2 h-m-p  1.6000 8.0000   0.0000 Y      8735.289926  0 0.9929    99
+
+    1.339378         0:13
+
+Round 8b: Blengths (297, e=0.00025)
+	lnL0 =      -8735.289926
+	Cycle  1:   -8735.289577
+	Cycle  2:   -8735.289418
+
+ 0:13
+
+
+Round 9a: Paras (1) (e=6.25e-05)
+Iterating by ming2
+Initial: fx=  8735.289418
+x=  1.33938
+
+  1 h-m-p  0.0040 8.0000   0.0230 +C     8735.289411  0 0.0246   107 | 0/1
+  2 h-m-p  1.6000 8.0000   0.0000 Y      8735.289411  0 0.8421   112
+
+    1.338812         0:14
+
+Round 9b: Blengths (297, e=6.25e-05)
+	lnL0 =      -8735.289411
+	Cycle  1:   -8735.289305
+	Cycle  2:   -8735.289220
+	Cycle  3:   -8735.289143
+	Cycle  4:   -8735.289072
+	Cycle  5:   -8735.289005
+	Cycle  6:   -8735.288941
+	Cycle  7:   -8735.288882
+
+ 0:17
+
+
+Round 10a: Paras (1) (e=1.5625e-05)
+Iterating by ming2
+Initial: fx=  8735.288882
+x=  1.33881
+
+  1 h-m-p  0.0040 8.0000   0.0067 +C     8735.288881  0 0.0245   120 | 0/1
+  2 h-m-p  1.6000 8.0000   0.0000 N      8735.288881  0 1.6000   125
+
+    1.338647         0:18
+
+Round 10b: Blengths (297, e=1.5625e-05)
+	lnL0 =      -8735.288881
+	Cycle  1:   -8735.288825
+	Cycle  2:   -8735.288772
+	Cycle  3:   -8735.288722
+	Cycle  4:   -8735.288675
+	Cycle  5:   -8735.288631
+	Cycle  6:   -8735.288589
+	Cycle  7:   -8735.288549
+	Cycle  8:   -8735.288512
+	Cycle  9:   -8735.288500
+
+ 0:27
+
+
+Round 11a: Paras (1) (e=3.90625e-06)
+Iterating by ming2
+Initial: fx=  8735.288500
+x=  1.33865
+
+  1 h-m-p  0.0040 8.0000   0.0001 +C     8735.288500  0 0.0248   133
+
+    1.338645         0:27
+
+Round 11b: Blengths (297, e=3.90625e-06)
+	lnL0 =      -8735.288500
+	Cycle  1:   -8735.288500
+
+ 0:27
+
+
+Round 12a: Paras (1) (e=1e-06)
+Iterating by ming2
+Initial: fx=  8735.288500
+x=  1.33864
+
+  1 h-m-p  0.0040 8.0000   0.0001 +C     8735.288500  0 0.0203   141 | 0/1
+  2 h-m-p  1.6000 8.0000   0.0000 ---N   8735.288500  0 0.0063   149
+
+    1.338643         0:28
+
+Round 12b: Blengths (297, e=1e-06)
+	lnL0 =      -8735.288500
+	Cycle  1:   -8735.288500
+
+ 0:29
+
+lnL  = -8735.288500
+Out..
+lnL  = -8735.288500
+152 lfun, 0 eigenQcodon, 325920 P(t)
+Calculating SE's
+
+Warning: Hessian matrix may be unreliable for zero branch lengths
+
+xmax = 0.0000e+00 close to zero at  96!	
