@@ -1,7 +1,7 @@
 # thaum dating project 2019
 This is the input data and related commands to perform dating analysis for Thaumarchaeota.
 
-see command.sh for more details!
+See command.sh for more details!
 
 # Publication
 Ren, M., Feng, X., Huang, Y., Wang, H., Hu, Z., Clingenpeel, S., ... & Luo, H. (2019). Phylogenomics suggests oxygen availability as a driving force in Thaumarchaeota evolution. The ISME journal, 13(9), 2150-2161.
